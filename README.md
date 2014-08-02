@@ -12,11 +12,4 @@ Winter 2013
 ## Gallery
 ![ScreenShot](_screenshots/00.png)
 ![ScreenShot](_screenshots/01.png)
-![ScreenShot](_screenshots/02.png)
-![ScreenShot](_screenshots/03.png)
-![ScreenShot](_screenshots/04.png)
-![ScreenShot](_screenshots/05.png)
-![ScreenShot](_screenshots/06.png)
-![ScreenShot](_screenshots/07.png)
-![ScreenShot](_screenshots/08.png)
-
+For more look into directory [_screenshots](_screenshots/).
